@@ -1,0 +1,4 @@
+﻿  UnitTest3.3A.cpp
+D:\1 курс\ООП\3.3А\3.3А\Point.cpp(46,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\1 курс\ООП\3.3А\3.3А\Point.cpp(61): warning C4172: returning address of local variable or temporary: s
+  UnitTest3.3A.vcxproj -> D:\1 курс\ООП\3.3А\Debug\UnitTest3.3A.dll
