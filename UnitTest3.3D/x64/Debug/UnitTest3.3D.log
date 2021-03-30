@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  UnitTest3.3D.cpp
+     Creating library D:\1 курс\ООП\3.3D\x64\Debug\UnitTest3.3D.lib and object D:\1 курс\ООП\3.3D\x64\Debug\UnitTest3.3D.exp
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: void __cdecl Pair::Display(void)" (?Display@Pair@@QEAAXXZ) referenced in function "public: void __cdecl Rectangle::Display(void)" (?Display@Rectangle@@QEAAXXZ)
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: __cdecl Pair::Pair(double,double)" (??0Pair@@QEAA@NN@Z) referenced in function "public: __cdecl Rectangle::Rectangle(double,double)" (??0Rectangle@@QEAA@NN@Z)
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: __cdecl Pair::Pair(class Pair &)" (??0Pair@@QEAA@AEAV0@@Z) referenced in function "public: __cdecl Rectangle::Rectangle(class Rectangle &)" (??0Rectangle@@QEAA@AEAV0@@Z)
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: __cdecl Pair::~Pair(void)" (??1Pair@@QEAA@XZ) referenced in function "public: __cdecl Rectangle::~Rectangle(void)" (??1Rectangle@@QEAA@XZ)
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: class Pair & __cdecl Pair::operator=(class Pair &)" (??4Pair@@QEAAAEAV0@AEAV0@@Z) referenced in function "public: class Rectangle & __cdecl Rectangle::operator=(class Rectangle &)" (??4Rectangle@@QEAAAEAV0@AEAV0@@Z)
+UnitTest3.3D.obj : error LNK2019: unresolved external symbol "public: __cdecl Pair::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (??BPair@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) referenced in function "public: __cdecl Rectangle::operator class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >(void)const " (??BRectangle@@QEBA?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ)
+D:\1 курс\ООП\3.3D\x64\Debug\UnitTest3.3D.dll : fatal error LNK1120: 6 unresolved externals
