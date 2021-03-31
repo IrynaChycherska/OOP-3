@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest3.3F.cpp
+D:\1 курс\ООП\3.3F\3.3F\Point.cpp(87,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\1 курс\ООП\3.3F\3.3F\Triangle.cpp(132,18): warning C4805: '!=': unsafe mix of type 'bool' and type 'double' in operation
+D:\1 курс\ООП\3.3F\3.3F\Point.cpp(102): warning C4172: returning address of local variable or temporary: s
+     Creating library D:\1 курс\ООП\3.3F\Debug\UnitTest3.3F.lib and object D:\1 курс\ООП\3.3F\Debug\UnitTest3.3F.exp
+  UnitTest3.3F.vcxproj -> D:\1 курс\ООП\3.3F\Debug\UnitTest3.3F.dll
